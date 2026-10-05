@@ -13,7 +13,7 @@ DevOps and cloud engineering enthusiast with 2 years of experience as Programmer
 and quality assurance as per requirements. Currently learning about DevOps and cloud technologies, leveraging the SDLC fundamentals for
 software development, integration, testing, deployment and monitoring. With a strong focus on building practical, real-world solutions. I believe in learning by doing, so I continuously work on hands-on projects that strengthen my understanding of modern DevSecOps practices and tools.
 
-My experience includes working with **AWS, Linux, Git, GitHub, Docker, Kubernetes, Terraform, Ansible, GitHub Actions, Python & Shell Scripting**. I enjoy automating repetitive tasks, implementing CI/CD pipelines, managing infrastructure as code, and improving development workflows.
+My experience includes working with **AWS, Linux, Git, GitHub, GitHub Actions, Docker, Kubernetes, Terraform, Ansible, Python & Shell Scripting**. I enjoy automating repetitive tasks, implementing CI/CD pipelines, managing infrastructure as code, and improving development workflows.
 
 I'm currently expanding my expertise by building end-to-end DevSecOps projects, exploring cloud-native technologies, and following industry best practices. My goal is to become a skilled DevOps/DevSecOps/Cloud Engineer capable of designing scalable, secure, and automated infrastructure.
 
