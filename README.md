@@ -88,7 +88,7 @@ Fun fact: Love sharing knowledge through GitHub, LinkedIn & X.
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
-  <a href="https://twitter.com/Robin_Banerjee_" target="_blank">
+  <a href="https://x.com/Robin_Banerjee_" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
   </a>
   
