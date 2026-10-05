@@ -102,4 +102,4 @@ Fun fact: Love sharing knowledge through GitHub, LinkedIn & X.
 
 </p>
 
-<h3 align="center">⭐ Always Learning • Building • Automating - One Container, One Pipeline, One Deployment at a time ⭐</h3>
+<h3 align="center">⭐ Learn • Build • Automate - One Container, One Pipeline, One Deployment at a time ⭐</h3>
