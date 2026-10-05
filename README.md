@@ -9,16 +9,11 @@
 
 ## 🚀 About Me
 
-DevOps and cloud engineering enthusiast with 2 years of experience as Programmer Analyst at Cognizant. Proven track record in software testing
-and quality assurance as per requirements. Currently learning about DevOps and cloud technologies, leveraging the SDLC fundamentals for
-software development, integration, testing, deployment and monitoring. With a strong focus on building practical, real-world solutions. I believe in learning by doing, so I continuously work on hands-on projects that strengthen my understanding of modern DevSecOps practices and tools.
-
-My experience includes working with **AWS, Linux, Git, GitHub, GitHub Actions, Docker, Kubernetes, Terraform, Ansible, Python & Shell Scripting**. I enjoy automating repetitive tasks, implementing CI/CD pipelines, managing infrastructure as code, and improving development workflows.
-
-I'm currently expanding my expertise by building end-to-end DevSecOps projects, exploring cloud-native technologies, and following industry best practices. My goal is to become a skilled DevOps/DevSecOps/Cloud Engineer capable of designing scalable, secure, and automated infrastructure.
-
-This GitHub profile showcases my learning journey, projects, and practical experience as I continue growing in the DevSecOps ecosystem.
-Fun fact: Love sharing knowledge through GitHub, LinkedIn & X.
+* **Background:** 2+ years of IT experience as a Programmer Analyst at Cognizant with a strong foundation in QA, web app testing, and full SDLC execution.
+* **Transition:** Pivoting into Cloud & DevSecOps by applying systems engineering fundamentals to modern infrastructure.
+* **Core Philosophy:** *Learning by doing*, focusing on hands-on project delivery rather than just theory.
+* **Core Stack:** AWS, Linux, Git, GitHub Actions, Docker, Kubernetes, Terraform, Ansible, Python & Shell Scripting.
+* **Goal:** Architecting scalable, secure, and fully automated cloud infrastructure.
 
 ## 🛠️ Tech Stack
 
