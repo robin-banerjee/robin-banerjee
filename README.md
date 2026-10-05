@@ -89,7 +89,7 @@ Fun fact: Love sharing knowledge through GitHub, LinkedIn & X.
   </a>
   
   <a href="https://x.com/Robin_Banerjee_" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
+    <img src="https://img.shields.io/badge/Chat-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
   </a>
   
   <a href="mailto:robinofficialcontact@gmail.com">
