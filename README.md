@@ -88,7 +88,7 @@
   </a>
   
   <a href="mailto:robinofficialcontact@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Send%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-robinofficialcontact@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://github.com/robin-banerjee" target="_blank">
