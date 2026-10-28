@@ -64,17 +64,18 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=robin-banerjee&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=robin-banerjee&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=robin-banerjee&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<p align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=robin-banerjee&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robin-banerjee&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=robin-banerjee&theme=tokyonight&hide_border=true"/>
+
+</div>
+
 
 ## 🌐 Feel Free To Connect!
 
